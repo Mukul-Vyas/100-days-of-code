@@ -1,3 +1,5 @@
+Today's problem - bubble short
+    ------------------------------------------------------------------------------------------------
 public class bubblesort {
     public static void main(String[] args) {
         int [] arr={7,8,5,3,9};
@@ -19,3 +21,6 @@ public class bubblesort {
         System.out.println();
     }
 }
+---------------------------------------------------------------------------
+    OUTPUT OF CODE
+    3 5 7 8 9 
